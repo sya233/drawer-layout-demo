@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DrawerLayoutDemo</string>
+    <string name="title">标题</string>
+    <string name="call">电话</string>
+    <string name="friend">朋友</string>
+    <string name="location">位置</string>
+    <string name="mail">邮箱</string>
+    <string name="task">任务</string>
+    <string name="xyw">xyw</string>
+    <string name="xyw_mail">xyw@gmail.com</string>
+</resources>
